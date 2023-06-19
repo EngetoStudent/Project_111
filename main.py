@@ -9,3 +9,6 @@ print("Hello World")
 print("Provedli jsme zmeny")
 
 print("Pridal jsem dalsi print")
+
+
+print("Projekt 1")
